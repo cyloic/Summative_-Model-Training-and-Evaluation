@@ -42,4 +42,4 @@ best_model = load_model("saved_models/model_3.keras")
 predictions = best_model.predict(X_test)
 
 
-youtube Liink: https://youtu.be/bCpuGvvRMLA
+youtube Liink: https://youtu.be/V5T25G-mQlc
