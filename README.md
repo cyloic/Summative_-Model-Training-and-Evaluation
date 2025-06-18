@@ -51,3 +51,6 @@ This project applies Neural Network models to predict the likelihood of disease 
 ```bash
 git clone https://github.com/your-username/pandemic-prediction-model.git
 cd pandemic-prediction-model
+
+
+Youtube Link: https://youtu.be/bCpuGvvRMLA
