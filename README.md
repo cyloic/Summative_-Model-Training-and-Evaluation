@@ -40,3 +40,6 @@ To load and use the best saved model:
 from tensorflow.keras.models import load_model
 best_model = load_model("saved_models/model_3.keras")
 predictions = best_model.predict(X_test)
+
+
+youtube Liink: https://youtu.be/bCpuGvvRMLA
